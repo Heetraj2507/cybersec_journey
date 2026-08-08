@@ -39,7 +39,7 @@ Understand how DNS resolves domain names.
 * The IP address shown in the **Source** column is the DNS server that responded.
 
 **Screenshot:**
-<img alt="clouds_above_a_mountain" src="C:\cyberr\Wireshark\Lab 1 - DNS Analysis\Screenshot 2026-07-31 120606.png"><br/><br/> 
+<img alt="clouds_above_a_mountain" src="Screenshot 2026-07-31 120606.png"><br/><br/> 
 
 ### [2] What IP Address Was Returned?
 
@@ -49,7 +49,7 @@ Understand how DNS resolves domain names.
 * You will see the IP address returned by the DNS server.
 
 **Screenshot:**
-<img alt="clouds_above_a_mountain" src="C:\cyberr\Wireshark\Lab 1 - DNS Analysis\Screenshot 2026-07-31 130419.png"><br/><br/> 
+<img alt="clouds_above_a_mountain" src="Screenshot 2026-07-31 130419.png"><br/><br/> 
 
 ### [3] Was an A or AAAA Record Used?
 

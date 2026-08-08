@@ -43,7 +43,7 @@ To understand how TCP connections are established by observing the TCP three-way
   * **Sequence Number:** 0
   * **Window Size:** 65535
   * **Marked with red arrows**
-  <img alt="clouds_above_a_mountain" src="C:\cyberr\Wireshark\LAB 2 - TCP\syn.png"><br/><br/> 
+  <img alt="clouds_above_a_mountain" src="syn.png"><br/><br/> 
 
 **Note:** The values shown above are examples. The actual values may vary depending on your system and network. Enter the values displayed in your own Wireshark capture.
 
@@ -62,7 +62,7 @@ To understand how TCP connections are established by observing the TCP three-way
   * **Sequence Number:** 0
   * **Window Size:** 65535
   * **Acknowledgment Number:** 1
-   <img alt="clouds_above_a_mountain" src="C:\cyberr\Wireshark\LAB 2 - TCP\syn_ack.png"><br/><br/> 
+   <img alt="clouds_above_a_mountain" src="syn_ack.png"><br/><br/> 
    **Note:** The values shown above are examples. The actual values may vary depending on your system and network. Enter the values displayed in your own Wireshark capture.
 
 
@@ -82,7 +82,7 @@ To understand how TCP connections are established by observing the TCP three-way
   * **Window Size:** 160
   * **Acknowledgment Number:** 2767
   * **The details are marked with red arrows.**
-  <img alt="clouds_above_a_mountain" src="C:\cyberr\Wireshark\LAB 2 - TCP\ack.png"><br/><br/>  
+  <img alt="clouds_above_a_mountain" src="ack.png"><br/><br/>  
 
   **Note:** The values shown above are examples. The actual values may vary depending on your system and network. Enter the values displayed in your own Wireshark capture.
 
