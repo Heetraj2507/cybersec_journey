@@ -1,4 +1,4 @@
-# Lab 2 – DNS Analysis
+# Lab 1 – DNS Analysis
 * DNS(Domain Name System)
 ## Objective
 

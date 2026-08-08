@@ -1,4 +1,4 @@
-# Lab 8 – ARP
+# Lab 7 – ARP
 
 * **ARP (Address Resolution Protocol)**
 

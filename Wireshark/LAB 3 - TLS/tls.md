@@ -1,4 +1,4 @@
-## Lab 4 – HTTPS / TLS
+## Lab 3 – HTTPS / TLS
 
 * TLS( Transport Layer Security )
 

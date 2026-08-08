@@ -1,4 +1,4 @@
-## Lab 3 – TCP Three-Way Handshake
+## Lab 2 – TCP Three-Way Handshake
 * TCP (Transmission Control Protocol)
 
 ### Objective:

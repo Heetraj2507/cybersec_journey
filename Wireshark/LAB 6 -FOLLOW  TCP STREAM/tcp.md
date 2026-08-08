@@ -1,4 +1,4 @@
-# Lab 7 – Follow TCP Stream
+# Lab 6 – Follow TCP Stream
 
 * **TCP (Transmission Control Protocol)**
 

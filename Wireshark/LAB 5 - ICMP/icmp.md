@@ -1,4 +1,4 @@
-# Lab 6 – ICMP (Ping)
+# Lab 5 – ICMP (Ping)
 
 * **ICMP (Internet Control Message Protocol)**
 

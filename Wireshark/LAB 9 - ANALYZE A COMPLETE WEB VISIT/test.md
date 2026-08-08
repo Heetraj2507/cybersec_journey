@@ -1,4 +1,4 @@
-# Wireshark Lab 10 – Analyze a Complete Web Visit
+# Wireshark Lab 9– Analyze a Complete Web Visit
 
 ## Objective
 

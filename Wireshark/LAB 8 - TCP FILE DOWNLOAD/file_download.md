@@ -1,4 +1,4 @@
-# Lab 9 – TCP File Download
+# Lab 8 – TCP File Download
 
 * **TCP (Transmission Control Protocol)**
 
