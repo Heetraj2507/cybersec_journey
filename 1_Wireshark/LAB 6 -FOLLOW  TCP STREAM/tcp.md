@@ -82,7 +82,7 @@ A new window will open displaying the complete TCP conversation between your com
 For websites using **HTTPS**, the data will appear encrypted and may not be human-readable.
 
 **Screenshot:**
-<img alt="server_hello" src="tcp_streams.png"><br/><br/> 
+<img src="tcp_streams.png"><br/><br/> 
 
 
 ---
@@ -150,7 +150,7 @@ tcp.stream == 5
 Replace **5** with the stream number shown in your capture.
 
 **Screenshot**
-<img alt="server_hello" src="streams.png"><br/><br/> 
+<img src="streams.png"><br/><br/> 
 
 
 ---

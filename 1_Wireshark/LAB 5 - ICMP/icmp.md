@@ -59,7 +59,7 @@ Understand how ICMP works by capturing and analyzing **Echo Request** and **Echo
   * **Code = 0**
 
 **Screenshot:**
-<img alt="server_hello" src="request.png"><br/><br/> 
+<img src="request.png"><br/><br/> 
 
 ---
 
@@ -83,7 +83,7 @@ Understand how ICMP works by capturing and analyzing **Echo Request** and **Echo
   * **Code = 0**
 
 **Screenshot:**
-<img alt="server_hello" src="reply.png"><br/><br/> 
+<img src="reply.png"><br/><br/> 
 
 ---
 
@@ -130,7 +130,7 @@ Understand how ICMP works by capturing and analyzing **Echo Request** and **Echo
 * You can also calculate RTT in Wireshark by comparing the timestamps of the matching Echo Request and Echo Reply packets.
 
 **Screenshot:**
-<img alt="server_hello" src="rtt.png"><br/><br/> 
+<img src="rtt.png"><br/><br/> 
 
 ---
 

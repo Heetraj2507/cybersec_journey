@@ -84,7 +84,7 @@ Connection: keep-alive
 * **Accept** – Specifies the content types that the client can accept.
 * **Connection** – Indicates whether the TCP connection should remain open after the request.
 
-<img alt="server_hello" src="get.png"><br/><br/> 
+<img src="get.png"><br/><br/> 
 
 ### 7. Observe an HTTP POST Request (Optional)
 
@@ -128,7 +128,7 @@ HTTP/1.1 200 OK
 | **404 Not Found**             | The requested resource could not be found.                               |
 | **500 Internal Server Error** | The server encountered an unexpected error while processing the request. |
 
-<img alt="server_hello" src="response.png"><br/><br/> 
+<img src="response.png"><br/><br/> 
 
 ### 9. Capture HTTPS Traffic
 

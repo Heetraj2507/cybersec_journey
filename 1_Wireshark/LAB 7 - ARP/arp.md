@@ -119,7 +119,7 @@ Only ARP packets will now be displayed.
   > "Which device owns this IP address?"
 
 **Screenshot:**
-<img alt="server_hello" src="who_has.png"><br/><br/> 
+<img src="who_has.png"><br/><br/> 
 
 
 ---
@@ -141,7 +141,7 @@ Only ARP packets will now be displayed.
   > "I own this IP address, and this is my MAC address."
 
 **Screenshot:**
-<img alt="server_hello" src="is_at.png"><br/><br/> 
+<img src="is_at.png"><br/><br/> 
 
 ---
 
@@ -166,7 +166,7 @@ Example:
 ```
 
 **Screenshot:**
-<img alt="server_hello" src="arp.png"><br/><br/> 
+<img src="arp.png"><br/><br/> 
 
 ---
 

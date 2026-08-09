@@ -49,7 +49,7 @@ To understand how secure HTTPS connections are established by observing the TLS 
   * **Extensions:** Reserved, Supported versions, Signature Algorithms etc..
   * **Details are Marked with red arrows**
 
-  <img alt="client_hello" src="client_hello.png"><br/><br/>
+  <img src="client_hello.png"><br/><br/>
 
 
 ---
@@ -69,7 +69,7 @@ To understand how secure HTTPS connections are established by observing the TLS 
   * **Session ID (if present):** 877e...a54
   * **Details are Marked with red arrows**
 
-  <img alt="server_hello" src="server_hello.png"><br/><br/>
+  <img src="server_hello.png"><br/><br/>
 
 
 ---

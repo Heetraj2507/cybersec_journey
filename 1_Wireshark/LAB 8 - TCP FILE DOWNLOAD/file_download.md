@@ -125,7 +125,7 @@ tcp.stream == 5
 * This displays the packets belonging to that particular TCP connection.
 
 **Screenshot:**
-<img alt="server_hello" src="identify_streams.png"><br/><br/> 
+<img src="identify_streams.png"><br/><br/> 
 
 ---
 
@@ -168,7 +168,7 @@ Packet sent → Not successfully received/acknowledged
 * If no packets are displayed, then no TCP retransmissions were detected.
 
 **Screenshot:**
-<img alt="server_hello" src="retransmission.png"><br/><br/> 
+<img src="retransmission.png"><br/><br/> 
 
 ---
 
@@ -205,7 +205,7 @@ Packet sent → Not successfully received/acknowledged
 * If no packets are displayed, no duplicate ACKs were detected.
 
 **Screenshot:**
-<img alt="server_hello" src="duplicate.png"><br/><br/> 
+<img src="duplicate.png"><br/><br/> 
 
 ---
 
@@ -242,7 +242,7 @@ Packet sent → Not successfully received/acknowledged
 * A Window Update means that the receiver has changed the amount of data it can currently receive.
 
 **Screenshot:**
-<img alt="server_hello" src="update.png"><br/><br/> 
+<img src="update.png"><br/><br/> 
 
 ---
 
@@ -277,7 +277,7 @@ Packet sent → Not successfully received/acknowledged
 * If you see a retransmission after a missing segment, it shows how TCP can recover from packet loss.
 
 **Screenshot:**
-<img alt="server_hello" src="lost_segment.png"><br/><br/> 
+<img src="lost_segment.png"><br/><br/> 
 
 ---
 
